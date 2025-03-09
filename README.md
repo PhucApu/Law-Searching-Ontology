@@ -1,4 +1,6 @@
-# NHẬT KÝ LÀM KHÓA LUẬN TỐT NGHIỆP
+# NHẬT KÝ LÀM KHÓA LUẬN TỐT NGHIỆP (Độc Lập)
+
+**Là phiên bản phát triển độc lập của KLTN với điều chỉnh riêng ở phần csdl.**
 
 ## Đề tài
 
@@ -8,7 +10,6 @@
 ## Thành viên
 
 - Trương Công Phúc
-- Cao Bảo Quỳnh
 
 ## Mục lục
 
